@@ -20,4 +20,3 @@ import flixel.tweens.FlxTween;
 import flixel.group.FlxSpriteGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.graphics.frames.FlxAtlasFrames;
-#end
